@@ -1,0 +1,45 @@
+body {
+	background:gray;
+	font-family: arial;
+}
+
+
+
+h4 {
+	color:black;
+}
+
+	<style> 
+		#para1{
+			text-align: center;
+			padding: 20px 0px 50px 0px;}
+
+		#hed1{
+			text-align: center;
+			background: white;
+			padding: 15px ;
+			margin: 0;}
+		
+		.nav ul {
+			background: red;
+			text-align: center;
+			padding: 0;
+			margin: 0;}
+
+		.nav li {
+			display: inline-block;}
+
+		.nav a{
+			text-decoration: none;
+			color: white;
+			width: 100px;
+			display: block;
+			padding: 20px;
+			font-size: 17px;
+			font-family: Helvetica;}
+
+		.nav a:hover {
+			background: #000;
+			transition: 0.4s;}
+
+	</style>
